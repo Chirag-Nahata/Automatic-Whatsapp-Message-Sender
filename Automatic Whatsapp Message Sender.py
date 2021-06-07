@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+91 7980117518', 'Hi', 19, 57)
+pywhatkit.sendwhatmsg('Phone Number', 'Message', Time (in Hours), Time (in minutes)
